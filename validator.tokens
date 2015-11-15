@@ -1,0 +1,7 @@
+EndTag=1
+StartTag=2
+Email=3
+Date=4
+Phone=5
+CreditCard=6
+WS=7
